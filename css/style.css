@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif; /* Yazı tipi ayarı */
+    background-color: #f0f0f0; /* Arka plan rengi */
+    margin: 0; /* Kenar boşlukları sıfırlanır */
+    padding: 20px; /* İç boşluk ayarı */
+}
+
+header {
+    background-color: #333; /* Başlık arka plan rengi */
+    color: white; /* Yazı rengi */
+    padding: 10px; /* İç boşluk */
+    text-align: center; /* Ortala */
+}
+
+nav a {
+    color: white; /* Bağlantı rengi */
+    padding: 10px 15px; /* İç boşluk */
+    text-decoration: none; /* Alt çizgiyi kaldır */
+}
+
+.cta-button {
+    background-color: #4CAF50; /* Buton arka plan rengi */
+    color: white; /* Buton yazı rengi */
+    padding: 10px 20px; /* İç boşluk */
+    border: none; /* Kenarlık yok */
+    border-radius: 5px; /* Köşe yuvarlama */
+    cursor: pointer; /* İmleci değiştir */
+}
